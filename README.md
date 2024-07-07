@@ -1,2 +1,2 @@
 # DirectX11_RimWorld_Imitation
-다이렉트X11로 림월드의 모작을 만들어 보았습니다. 사용된 리소스는 림월드와는 관련이 없지만 림월드의 시스템이나 AI를 미숙하게나마 흉내내 보았습니다.
+기술문서 : https://military-pickle-062.notion.site/DX11-2D-Project-d143ea03cd18404bbd7d686669960945
